@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Test Post"
-date:   2014-12-10
+title:  "15 Software Buat Enkripsi Drive"
+date:   2017-04-30
 ---
 
 <p class="intro"><span class="dropcap">W</span>aktunya buat mengenkripsi file dan folder di USB agan. Pada drive eksternal kaya Flash Disk sama Hard Disk, ada banyak data pribadi yang bisa diakses sama orang yang mungkin ga rela gitu kalo orang itu mengakses file pribadi kita gan. Hal ini dikarenakan data kita tersimpan secara terbuka nih, So, ya file kita bisa dengan mudah diakses oleh siapa aja gan.</p>
